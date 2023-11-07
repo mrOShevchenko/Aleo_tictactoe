@@ -1,3 +1,4 @@
+<<<<<<< HEAD
 <!-- # ⭕ Tic-Tac-Toe -->
 
 [//]: # (<img alt="workshop/tictactoe" width="1412" src="../.resources/tictactoe.png">)
@@ -80,3 +81,7 @@ leo run make_move 2u8 2u8 2u8 "{ r1: { c1: 1u8, c2: 0u8, c3: 0u8 }, r2: { c1: 0u
 | 1 | 0 | 0 |
 | 0 | 2 | 0 |
 | 0 | 0 | 0 |
+=======
+# Aleo_tictactoe
+test application with language leo in Aleo blockchain
+>>>>>>> 71b7c5c7b92fe7a38d7a62d5dc8f0e787db0f236
